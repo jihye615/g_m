@@ -127,7 +127,6 @@ img {
 .main-bg .search-box .search {
     position: absolute;
     right: 0;
-    /* background-color: yellowgreen; */
     bottom: 0;
     color: #fff;
 }
@@ -289,7 +288,7 @@ nav#gnb-mo .btn .btn2:hover {
     /*다시보이게*/
 }
 
-/* --------------------info-------- */
+/* ---------------젠틀가든 이벤트 정보 info------- */
 .flower-box,
 .jeni-video-pc {
     display: none;
@@ -696,8 +695,6 @@ button:after {
 
 .sns-section ul li a {
     display: block;
-    /* width: 100%; */
-    /* height: 300px; */
     position: relative;
 }
 

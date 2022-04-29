@@ -1,4 +1,5 @@
-var swiper = new Swiper(".mySwiper", {
+// 슬릭슬라이더
+let swiper = new Swiper(".mySwiper", {
     autoplay:{
         delay:4000,
     },
@@ -8,7 +9,6 @@ var swiper = new Swiper(".mySwiper", {
     },
     loop:true,
 });
-
 
 function showMore(){
 
@@ -22,5 +22,5 @@ function showMore(){
     }
 }
 function hideMoreBtn() {
-    document.getElementById('moreBtn').classList.add('hide');
-}
+    document.getElementById('moreBtn').classList.add('hide');}
+    
